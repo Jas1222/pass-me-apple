@@ -1,0 +1,143 @@
+{
+  "seeded_on": "2026-11-09",
+  "sources": [
+    {
+      "id": "guidelines",
+      "title": "App Review Guidelines",
+      "url": "https://developer.apple.com/app-store/review/guidelines/",
+      "core": true
+    },
+    {
+      "id": "upcoming",
+      "title": "Upcoming Requirements",
+      "url": "https://developer.apple.com/news/upcoming-requirements/",
+      "core": true
+    },
+    {
+      "id": "app-information",
+      "title": "App information",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/app-information",
+      "core": true
+    },
+    {
+      "id": "version-information",
+      "title": "Platform version information",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/platform-version-information",
+      "core": true
+    },
+    {
+      "id": "required-properties",
+      "title": "Required, localizable, and editable properties",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/required-localizable-and-editable-properties",
+      "core": true
+    },
+    {
+      "id": "screenshots",
+      "title": "Screenshot specifications",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications",
+      "core": true
+    },
+    {
+      "id": "previews",
+      "title": "App preview specifications",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/app-preview-specifications",
+      "core": true
+    },
+    {
+      "id": "creative-assets",
+      "title": "Creative assets specifications",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+      "core": true
+    },
+    {
+      "id": "icons",
+      "title": "Add an app icon",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-information/add-an-app-icon",
+      "core": true
+    },
+    {
+      "id": "age-ratings",
+      "title": "Age ratings values and definitions",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions",
+      "core": true
+    },
+    {
+      "id": "age-questionnaire",
+      "title": "Set an app age rating",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-information/set-an-app-age-rating",
+      "core": true
+    },
+    {
+      "id": "privacy-declarations",
+      "title": "App privacy",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/app-privacy",
+      "core": true
+    },
+    {
+      "id": "submission",
+      "title": "Overview of submitting for review",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-submissions-to-app-review/overview-of-submitting-for-review",
+      "core": true
+    },
+    {
+      "id": "privacy-details",
+      "title": "App privacy details",
+      "url": "https://developer.apple.com/app-store/app-privacy-details/",
+      "core": false
+    },
+    {
+      "id": "tracking",
+      "title": "User Privacy and Data Use",
+      "url": "https://developer.apple.com/app-store/user-privacy-and-data-use/",
+      "core": false
+    },
+    {
+      "id": "sdk-requirements",
+      "title": "Third-party SDK requirements",
+      "url": "https://developer.apple.com/support/third-party-SDK-requirements/",
+      "core": false
+    },
+    {
+      "id": "account-deletion",
+      "title": "Offering account deletion in your app",
+      "url": "https://developer.apple.com/support/offering-account-deletion-in-your-app/",
+      "core": false
+    },
+    {
+      "id": "subscriptions",
+      "title": "Offer auto-renewable subscriptions",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-subscriptions/offer-auto-renewable-subscriptions",
+      "core": false
+    },
+    {
+      "id": "iap-information",
+      "title": "In-App Purchase information",
+      "url": "https://developer.apple.com/help/app-store-connect/reference/in-app-purchases-and-subscriptions/in-app-purchase-information",
+      "core": false
+    },
+    {
+      "id": "accessibility",
+      "title": "Overview of Accessibility Nutrition Labels",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/overview-of-accessibility-nutrition-labels",
+      "core": false
+    },
+    {
+      "id": "export-compliance",
+      "title": "Overview of export compliance",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-information/overview-of-export-compliance",
+      "core": false
+    },
+    {
+      "id": "eu-trader",
+      "title": "Manage European Union Digital Services Act trader requirements",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements",
+      "core": false
+    },
+    {
+      "id": "medical-status",
+      "title": "Declare Regulated Medical Device Status",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-information/declare-regulated-medical-device-status",
+      "core": false
+    }
+  ]
+}

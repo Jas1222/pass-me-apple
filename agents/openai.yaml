@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pass Me Apple"
+  short_description: "Review local builds and App Store submission risks"
+  default_prompt: "Use $pass-me-apple to review my local app binary in Simulator against my store listing and current Apple guidelines."
